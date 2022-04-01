@@ -249,4 +249,3 @@ ibulum ornare quam nec ornare fermentum.
 
 ## CI/CD Pipeline
 
-Concern: I can configure CI/CD for the service with GitHub Actions. But since this is a private repository created by the organization I don't have the settings tab for the project to congigure github environment variables as secrets in GitHub for the project. The docker-compose.yml is using enviornment variables. Hence, Only after I have an option to configure secrets in GitHub, I can create a GitHub Action and implement a working CI/CD pipeline that runs the tests using GitHub Actions and includes a sample PR to show the working CI/CD pipeline.
